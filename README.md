@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Mahedihasan Nandoliya!
 
 ## 💻 About Me
 - 🔭 I’m a Laravel developer with 2.5 years of experience.
 - 🌱 Currently learning Vue.js & Alpine.js.
 - 💬 Ask me about PHP, Laravel, and API development.
-- 📫 How to reach me: [your email] | [LinkedIn] | [Portfolio Website]
+- 📫 How to reach me: mahedialian@gmail.com | https://www.linkedin.com/in/mahedihasan-nandoliya-13040912a/
 
 ## 🚀 Projects
 ### [Project 1](https://github.com/yourusername/project1)
